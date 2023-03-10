@@ -1,0 +1,45 @@
+body{
+    background-color: #FAEAB1;
+    margin: 0cm 2cm;
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+hr{
+    border: 1px solid red;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+table{
+    margin: auto;
+    width: 60%;
+}
+th, td {
+    padding: auto;
+  }
+
+ul{
+    text-align: left;
+}
